@@ -4007,54 +4007,54 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <node id="greenfield1.online.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
 <node id="194.186.207.23">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
 <node id="mobile.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
 <node id="node0.online.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 </node>
 <node id="node1.online.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 </node>
 <node id="node2.online.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
 <node id="node3.online.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
 <node id="ift-node1.testonline.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -4068,7 +4068,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -4082,21 +4082,21 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <node id="ift-node5-mp.testonline.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>false</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
 <node id="10.21.152.7">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
 <node id="msv-node2.testonline.sberbank.ru">
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
