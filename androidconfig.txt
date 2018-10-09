@@ -2713,7 +2713,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2725,7 +2725,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2737,7 +2737,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2749,7 +2749,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2761,7 +2761,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2773,7 +2773,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2785,7 +2785,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2797,7 +2797,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2809,7 +2809,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2821,7 +2821,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2833,7 +2833,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2845,7 +2845,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2857,7 +2857,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
@@ -2869,7 +2869,7 @@ http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf
 <InvestmentsEnabled>true</InvestmentsEnabled>
 <isShowInFinance>true</isShowInFinance>
 <isShowInFinancev2>true</isShowInFinancev2>
-<actionInvestmentsBuy>true</actionInvestmentsBuy>
+<actionInvestmentsBuy>false</actionInvestmentsBuy>
 <actionPIF>true</actionPIF>
 <actionIPP>true</actionIPP>
 </node>
