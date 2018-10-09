@@ -3990,7 +3990,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </param>
 <param name="WelfareProductsMainScreen" description="Продукты благосостояния на главном экране">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 </param>
 <param name="WelfareTutorial" description="Туториал на фичу">
 <type>setting</type>
@@ -3998,7 +3998,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 </param>
 <param name="WelfareProductsDetails" description="Карточки продуктов благосостояния (детализация продукта)">
 <type>setting</type>
-<enabled>true</enabled>
+<enabled>false</enabled>
 </param>
 <param name="welfareProducts" description="Продукты благосостояния">
 <type>list</type>
